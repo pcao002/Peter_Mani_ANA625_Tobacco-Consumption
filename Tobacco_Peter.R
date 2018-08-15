@@ -6,4 +6,3 @@ str(tobacco)
 library(readxl)
 Tobacco <- read_excel('C:/Users/Stealth/Documents/Graduate/ANA625/Tobacco.xlsx')
 View(Tobacco)
-
